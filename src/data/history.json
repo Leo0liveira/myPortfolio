@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Chatbot Developer",
+    "organisation": "Compass UOL",
+    "startDate": "May, 2022",
+    "endDate": "Present",
+    "experiences": [],
+    "imageSrc": "history/compass_uol_logo.jpg"
+  },
+  {
+    "role": "Chatbot Developer Intern",
+    "organisation": "Compass UOL",
+    "startDate": "Nov, 2021",
+    "endDate": "Feb, 2022",
+    "experiences": [],
+    "imageSrc": "history/compass_uol_logo.jpg"
+  },
+  {
+    "role": "Bachelor, Software Engineering",
+    "organisation": "Federal University of Mato Grosso do Sul",
+    "startDate": "Jan, 2018",
+    "endDate": "Dec, 2022",
+    "experiences": [],
+    "imageSrc": "history/ufms_logo.png"
+  }
+]

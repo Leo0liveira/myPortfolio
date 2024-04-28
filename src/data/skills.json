@@ -1,0 +1,30 @@
+[
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript-logo.png"
+  },
+  {
+    "title": "Kotlin",
+    "imageSrc": "skills/Kotlin_Icon.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/ts-logo.png"
+  }
+]

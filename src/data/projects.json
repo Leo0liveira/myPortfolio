@@ -1,0 +1,58 @@
+[
+  {
+    "title": "To Do List",
+    "imageSrc": "projects/project_todolist.png",
+    "description": "Project developed using the new version of Vite + React.",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    "source": "https://github.com/Leo0liveira/toDoList"
+  },
+  {
+    "title": "CookBook",
+    "imageSrc": "projects/project_cookbook.png",
+    "description": "CookBook is a recipe catalog with social networking aspects. The idea is that people who have cooking as a hobby can collect and share their own recipes.",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    "source": "https://github.com/Lucas0liveira/CookBook"
+  },
+  {
+    "title": "Imersão Alura",
+    "imageSrc": "projects/project_chess.png",
+    "description": "Project built during Alura's React Immersion NextJS edition.",
+    "skills": ["JavaScript", "NextJS"],
+    "source": "https://github.com/Leo0liveira/ImersaoNextReact-Alura"
+  },
+  {
+    "title": "Recipe App",
+    "imageSrc": "projects/project_recipeapp.png",
+    "description": "The RecipeApp is an Android application that utilizes Retrofit to interact with The Meal DB API as part of a study project. It incorporates a ViewModel-based architecture for enhanced data management. This project was developed during a Udemy course instructed by Denis Panjuta.",
+    "skills": ["Kotlin", "Jetpack-Compose"],
+    "source": "https://github.com/Leo0liveira/RecipeApp"
+  },
+  {
+    "title": "Music App",
+    "imageSrc": "projects/project_musicapp.png",
+    "description": "MusicApp is an Android project conceived during Denis Panjuta's Udemy course. It is devoted to studying and implementing a music application, emphasizing user interface design and usability principles.",
+    "skills": ["Kotlin", "Jetpack-Compose"],
+    "source": "https://github.com/Leo0liveira/MusicApp"
+  },
+  {
+    "title": "WishList App",
+    "imageSrc": "projects/project_wishlist.png",
+    "description": "WishListApp is an Android project crafted within the Udemy curriculum under Denis Panjuta's guidance. It centers on crafting a wish list employing the Scaffold component and other sophisticated Android techniques, with the goal of deepening comprehension of user interface elements.",
+    "skills": ["Kotlin", "Jetpack-Compose"],
+    "source": "https://github.com/Leo0liveira/WishListApp"
+  },
+  {
+    "title": "Caramelo Bot",
+    "imageSrc": "projects/project_caramelo.png",
+    "description": "A chatbot created by students at the UFMS for the NGO Abrigo dos bichos.",
+    "skills": ["Jupyter Notebook", "Python", "Dockerfile"],
+    "source": "https://github.com/danielyudicarvalho/CarameloBot"
+  },
+  {
+    "title": "Weather Chatbot",
+    "imageSrc": "projects/project_weather.png",
+    "description": "ChatBot developed during the Compass Uol scholarship program.",
+    "skills": ["Python", "Dockerfile"],
+    "source": "https://github.com/Leo0liveira/CurrentWeather-Rasa"
+  }
+]
